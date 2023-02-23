@@ -1,0 +1,4 @@
+[submodule "HugoPort/public"]
+	path = HugoPort/public
+	url = https://github.com/HugoNak240/HugoNak240.github.io.git
+	branch = main
